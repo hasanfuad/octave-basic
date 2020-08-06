@@ -1,0 +1,3 @@
+save file_name variable_name;
+load file_name;
+a = tmpfile;
